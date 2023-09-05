@@ -1,5 +1,5 @@
 # REMITA BILLER PYTHON SDK
-Python SDK for Remita Billing Gateway Service simple APIs
+Python SDK for Remita Billing Gateway Service simple APIs.
 
 ## Package 
 To install the `remita-billing-gateway` package, run the following command.
